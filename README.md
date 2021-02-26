@@ -1,6 +1,8 @@
 
 
-### Hi there 👋
+### Hola a todos 😊👋
+
+¡ BIENVENIDOS A MI PERFIL !
 
 -Futuro Ingeniero en Sistemas Computacionales 💻🖥
 -Orgullosamente Galgo  (Instituto Tecnologico de Tijuana)
@@ -18,7 +20,7 @@
 
 -IG: Osvi1800 Sigueme 😎😎
 
--FB:https://www.facebook.com/osvaldobatasar
+- FB:https://www.facebook.com/osvaldobatasar
 
 -La tecnologia es uno de nuestros beneficios qie tienen que ser aprovechados para ser cada dia mejor 💪
 -No pain no gain 🤛

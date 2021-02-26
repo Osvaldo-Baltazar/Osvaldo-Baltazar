@@ -1,14 +1,22 @@
+
+
 ### Hi there 👋
 
--Futuro Ingeniero en Sistemas Computacionales 
--Orgullosamente Galgo  (Instituto Tecnologico de Tijuana
+-Futuro Ingeniero en Sistemas Computacionales 💻🖥
+-Orgullosamente Galgo  (Instituto Tecnologico de Tijuana)
 
 
---Me encanta Salir a correr
+-Me encanta Salir a correr 🏃
 
 
--- Amante de  los animales
+-Amante de  los animales🐶🐕🐢
 
+
+ -🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
+
+-wine taster is my passion 🍷
+
+-IG:Osvi1800 Sigueme 😎😎
 
 <!--
 **Osvaldo-Baltazar/Osvaldo-Baltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

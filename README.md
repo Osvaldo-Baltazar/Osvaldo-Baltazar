@@ -16,7 +16,7 @@
 
  -🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 
--wine taster is my passion 🍷
+- be wine taster is my passion 🍷
 
 -IG: Osvi1800 Sigueme 😎😎
 

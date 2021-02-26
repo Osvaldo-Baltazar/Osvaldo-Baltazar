@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+-Futuro Ingeniero en Sistemas Computacionales 
+-Orgullosamente Galgo  (Instituto Tecnologico de Tijuana
+
+
+--Me encanta Salir a correr
+
+
+-- Amante de  los animales
+
+
 <!--
 **Osvaldo-Baltazar/Osvaldo-Baltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

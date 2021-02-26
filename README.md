@@ -16,7 +16,9 @@
 
 -wine taster is my passion 🍷
 
--IG:Osvi1800 Sigueme 😎😎
+-IG: Osvi1800 Sigueme 😎😎
+
+-FB:https://www.facebook.com/osvaldobatasar
 
 -La tecnologia es uno de nuestros beneficios qie tienen que ser aprovechados para ser cada dia mejor 💪
 -No pain no gain 🤛

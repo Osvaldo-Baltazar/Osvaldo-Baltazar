@@ -37,6 +37,8 @@
 | Sabado        | ----  | ----  | 7-16   |
 | Domingo       | ----  | ----  | 7-16   |
 
+-Pronombre: Osvi
+
 <!--
 **Osvaldo-Baltazar/Osvaldo-Baltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

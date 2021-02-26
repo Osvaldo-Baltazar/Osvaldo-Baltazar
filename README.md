@@ -18,6 +18,21 @@
 
 -IG:Osvi1800 Sigueme 😎😎
 
+-La tecnologia es uno de nuestros beneficios qie tienen que ser aprovechados para ser cada dia mejor 💪
+-No pain no gain 🤛
+
+-Disponibilidad entre semana, no fines de semana 
+
+ DIAS     	| Libre	|Clases	|Trabajo |
+|----------	|:--:	|:---:	|:---:   |
+| Lunes 	| 7-13	| 14-20	| ----   |
+| Martes    	| 7-13	| 14-20	| ----   |
+| Miercoles    	| 7-13	| 14-20	| ----   |
+|Jueves         | 7-13  | 14-20 | ----   |
+| Viernes       | ----  | 15-18 | 7-16   |
+| Sabado        | ----  | ----  | 7-16   |
+| Domingo       | ----  | ----  | 7-16   |
+
 <!--
 **Osvaldo-Baltazar/Osvaldo-Baltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,4 @@
 
-![](https://images.cooltext.com/5508510.png)
-
 ![](https://images.cooltext.com/5509758.png)
 
 

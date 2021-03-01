@@ -1,7 +1,7 @@
 
 ![](https://images.cooltext.com/5508510.png)
 
-![]_(https://es.cooltext.com/Edit-Logo?LogoID=3779135900)
+![](https://images.cooltext.com/5509758.png)
 
 
 
